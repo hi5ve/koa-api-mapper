@@ -1,0 +1,26 @@
+{
+  "name": "koa-api-mapper",
+  "version": "0.0.1",
+  "description": "Koa middleware that aggregates and maps remote api calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasechnik/koa-api-mapper.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "api",
+    "mapper",
+    "aggregate"
+  ],
+  "author": "Vladimir Pasechnik <vladimir.pasechnik@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pasechnik/koa-api-mapper/issues"
+  },
+  "homepage": "https://github.com/pasechnik/koa-api-mapper#readme"
+}
