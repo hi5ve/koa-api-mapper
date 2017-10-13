@@ -1,6 +1,6 @@
 {
-  "name": "koa-api-mapper",
-  "version": "0.0.1",
+  "name": "@hi5ve/koa-api-mapper",
+  "version": "0.0.2",
   "description": "Koa middleware that aggregates and maps remote api calls",
   "main": "index.js",
   "scripts": {
